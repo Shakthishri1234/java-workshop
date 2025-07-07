@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "src/com.vetias java-workshop/java",
         "src/com.vetias java-workshop/Building/Hostel",
-        "src/com.vetias java-workshop/Basic/array"
+        "src/com.vetias java-workshop/Basic/array",
+        "src/com.vetias java-workshop/Basic"
     ]
 }

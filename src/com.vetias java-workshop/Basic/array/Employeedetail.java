@@ -1,8 +1,8 @@
 import java.util.Arrays;
 
 public class Employeedetail {
-    public static void main(String[]args){
-        String [][] employee= new String [5][2];
+    public static void main(Sentences[]args){
+        Sentences [][] employee= new Sentences [5][2];
         employee[0][0]="12456";
         employee[0][1]="25,000";
         employee[1][0]="45760";
@@ -13,7 +13,7 @@ public class Employeedetail {
         employee[3][1]="50,000";
         employee[4][0]="50121";
         employee[4][1]="55,000";
-    for (String[] employeedetails : employee){
+    for (Sentences[] employeedetails : employee){
   System.out.println(Arrays.toString(employeedetails));
     }
     }
