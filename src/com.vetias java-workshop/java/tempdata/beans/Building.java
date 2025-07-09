@@ -8,6 +8,10 @@ public class Building {
     private LocalDateTime opendatatime;
     private LocalDateTime closedatetime;
     private LocalDateTime  description;
+    public void printdetails() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'printdetails'");
+    }
     public 
 
 }

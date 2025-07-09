@@ -12,8 +12,16 @@ public class Namegenerator {
      System.out.println("enter the qualification");
      String qualification=sc.nextLine();
      System.out.println("qualification: "+ qualification);
-     if("male".equals())
-
+     if("male".equalsIgnoreCase(gender)) {
+        System.out.println("mr");
     }
-
+    else if("female".equalsIgnoreCase(gender)){
+        System.out.println("miss");
+    }
+    else
+    {
+        System.out.println("hello");
+    
+    }
+  }
 }
