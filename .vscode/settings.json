@@ -5,5 +5,6 @@
         "src/com.vetias java-workshop/Basic/array",
         "src/com.vetias java-workshop/Basic",
         "src/com.vetias java-workshop/file"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }

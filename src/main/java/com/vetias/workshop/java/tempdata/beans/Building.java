@@ -12,6 +12,5 @@ public class Building {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'printdetails'");
     }
-    public 
 
 }
