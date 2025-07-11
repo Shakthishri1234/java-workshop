@@ -1,3 +1,5 @@
+package com.vetias.workshop.basics.array;
+
 public class Stringbuilderexample {
     public static void main(String[] args) {
        StringBuilder sb=new StringBuilder();

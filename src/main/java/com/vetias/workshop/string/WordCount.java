@@ -1,4 +1,4 @@
-package com.vetias.java_workshop.string;
+package com.vetias.workshop.string;
 public class WordCount {
     
     public int count (String inputvalue){

@@ -1,3 +1,4 @@
+package com.vetias.workshop.basics;
 public class Sentences {
     public static void main(String[] args) {
         

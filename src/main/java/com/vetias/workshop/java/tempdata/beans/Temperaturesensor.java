@@ -1,4 +1,4 @@
-package tempdata.beans;
+package com.vetias.workshop.java.tempdata.beans;
 
 public class Temperaturesensor implements Sensor {
     

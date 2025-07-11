@@ -1,3 +1,5 @@
+package com.vetias.workshop.basics;
+
 import java.util.Scanner;
 
 public class Namegenerator {

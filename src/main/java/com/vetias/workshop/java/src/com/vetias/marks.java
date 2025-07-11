@@ -1,4 +1,4 @@
-package src.com.vetias;
+package com.vetias.workshop.java.src.com.vetias;
 
 public class marks {
     public static void main(String[]args) {

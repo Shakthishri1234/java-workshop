@@ -1,11 +1,19 @@
+package com.vetias.workshop.collections;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
 public class StudentSet {
     public static void main(String[]args){
-        set<String> students = new HashSet<>();
-        rollnos.add("1011");
-        rollnos.add("1012");
-        rollnos.add("1013");
-        rollnos.add("1014");
-        rollnos.add("1015");
+        List<String> students = new ArrayList<>();
+   
+        students.add("1011");
+        students.add("1012");
+        students.add("1013");
+        students.add("1014");
+        students.add("1015");
         System.out.println("rollnos:"+ students);
     }
 

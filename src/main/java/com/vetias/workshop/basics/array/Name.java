@@ -1,3 +1,5 @@
+package com.vetias.workshop.basics.array;
+
 public class Name {
 
     public static void main(String[] args) {
