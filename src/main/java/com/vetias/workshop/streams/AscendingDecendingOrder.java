@@ -13,7 +13,7 @@ public class AscendingDecendingOrder {
         System.out.println();
         System.out.println("Descending Order:");
         Arrays.stream(numbers)
-                .boxed() 
+               .boxed() 
                 .sorted(Collections.reverseOrder())
                 .forEach(n -> System.out.print(n + " "));
         System.out.println();

@@ -1,7 +1,5 @@
 package com.vetias.workshop.java.tempdata.beans;
 
-import java.util.*;
-
 public class temperaturedata {
 
     public static void main(String[] args) {
